@@ -4,10 +4,10 @@
 
 ## ITCarrer Final Exam
 
-# Links
+### Links
 
 - [ITCarrer](https://github.com/cathy-09/SQL-Repo/blob/main/ITCarrer.sql)
 
-# Authors
+### Authors
 
 - [@cathy-09](https://github.com/cathy-09)
